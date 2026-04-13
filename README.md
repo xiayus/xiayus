@@ -32,7 +32,3 @@ Currently exploring **Embedded Development**, **ESP32**, and **Micromouse roboti
 ## GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
-
-## Connect
-- Blog / DEV / Juejin / CSDN
-- Email: your_email@example.com
